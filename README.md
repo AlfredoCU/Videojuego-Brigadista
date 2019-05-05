@@ -83,7 +83,7 @@ https://www.informador.mx/jalisco/En-un-mes-se-registran-ocho-incendios-en-el-Bo
 ### Vídeo en Youtube.
 
 ### Proyecto Completo.
-- [Desarrollo Videojuego Brigadista.](https://drive.google.com/drive/folders/1mH9dibSowiijMJ5O0xE58S62JqbTaC6B?usp=sharing)
+- [Desarrollo Videojuego Brigadista.]()
 
 ### Apk (Instalador para Android).
-- [App.](https://drive.google.com/drive/folders/1L1tUm1yCWNCe9XnZHF9cbPSKaiFbpUKg?usp=sharing)
+- [App.]()
