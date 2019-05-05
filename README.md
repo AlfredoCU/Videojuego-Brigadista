@@ -1,5 +1,9 @@
 # Videojuego Brigadista.
 
+<p align="center">
+     <img src="https://github.com/AlfredoCU/Videojuego-Brigadista/blob/master/Img/1.png" alt="Logo de la app" width="200">
+</p>
+
 ## Objetivo.
 -	Aplicar conocimientos de las diferentes técnicas de simulación aprendidos en clase.
 -	Fomentar los valores de mejora para nuestro centro universitario o nuestra ciudad.
@@ -11,6 +15,8 @@ El 13 de abril del 2019, el área natural protegida del Bosque La Primavera, ubi
 De acuerdo con autoridades, se estima que el área afectada fue de mil 900 hectáreas y se brindó auxilio a más de tres mil 200 personas en el combate al fuego.
 Se activo una alerta atmosférica tras incendios en el Bosque La Primavera, al menos 447 elementos de diferentes brigadas combatieron el incendio.
 Aunque la situación pase a ser controlada, las pérdidas son graves, es responsabilidad de todos cuidar nuestra flora y fauna.
+
+![Logo de la app](https://github.com/AlfredoCU/Videojuego-Brigadista/blob/master/Img/2.png)
 
 ### Recomendaciones:
 -	No tirar colillas de cigarro en el bosque.
@@ -50,6 +56,10 @@ Este juego esta creado en un entorno 3D para realidad virtual, para esto es nece
 -	Un control con bluetooth.
 -	Lentes de realidad virtual.
 -	Audífonos.
+
+<p align="center">
+     <img src="https://github.com/AlfredoCU/Videojuego-Brigadista/blob/master/Img/3.png" alt="Logo de la app">
+</p>
 
 ## Conclusión.
 
