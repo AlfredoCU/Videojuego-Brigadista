@@ -81,7 +81,7 @@ https://www.eluniversal.com.mx/estados/extinguen-incendio-forestal-en-el-bosque-
 https://www.informador.mx/jalisco/En-un-mes-se-registran-ocho-incendios-en-el-Bosque-La-Primavera-20190410-0075.html
 
 ### Vídeo en Youtube.
-- [vídeo del funcionamiento y explicación del juego]()
+- [Vídeo del funcionamiento y explicación del juego]()
 
 ### Proyecto Completo.
 - [Desarrollo Videojuego Brigadista.](https://drive.google.com/drive/folders/1mh0f16qcO0Wbfize14tDviADi8yx41VO?usp=sharing)
