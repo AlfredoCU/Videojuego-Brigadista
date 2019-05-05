@@ -57,12 +57,12 @@ Una forma divertida de aprender, eso es lo que busco con este juego, poder gener
 
 ## Referencias.
 
-•	Página web del gobierno de Jalisco: https://prevenciondeincendios.jalisco.gob.mx/?fbclid=IwAR1FP8wLvVLrdHUUtiOiKeNcSy58bQjjgBI1ohzZ8gBRRtZFe2lJ8-Fm0LU
+-	Página web del gobierno de Jalisco: https://prevenciondeincendios.jalisco.gob.mx/?fbclid=IwAR1FP8wLvVLrdHUUtiOiKeNcSy58bQjjgBI1ohzZ8gBRRtZFe2lJ8-Fm0LU
 
-•	Vídeo en Facebook del gobierno de Jalisco: https://www.facebook.com/GobiernoJalisco/videos/1279984675460223/
+-	Vídeo en Facebook del gobierno de Jalisco: https://www.facebook.com/GobiernoJalisco/videos/1279984675460223/
 
-•	El Universal: 
+-	El Universal: 
 https://www.eluniversal.com.mx/estados/extinguen-incendio-forestal-en-el-bosque-la-primavera
 
-•	El Informador:
+-	El Informador:
 https://www.informador.mx/jalisco/En-un-mes-se-registran-ocho-incendios-en-el-Bosque-La-Primavera-20190410-0075.html
