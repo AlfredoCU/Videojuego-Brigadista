@@ -5,9 +5,10 @@
 </p>
 
 ## Objetivo.
--	Aplicar conocimientos de las diferentes técnicas de simulación aprendidos en clase.
--	Fomentar los valores de mejora para nuestro centro universitario o nuestra ciudad.
--	El proyecto se elaborará de manera individual.
+
+- Aplicar conocimientos de las diferentes técnicas de simulación aprendidos en clase.
+- Fomentar los valores de mejora para nuestro centro universitario o nuestra ciudad.
+- El proyecto se elaborará de manera individual.
 
 ## Justificación del proyecto.
 
@@ -19,10 +20,11 @@ Aunque la situación pase a ser controlada, las pérdidas son graves, es respons
 ![Logo de la app](https://github.com/AlfredoCU/Videojuego-Brigadista/blob/master/Img/2.png)
 
 ### Recomendaciones:
--	No tirar colillas de cigarro en el bosque.
--	No tirar basura en el bosque. (Vidrios, plásticos).
--	No prender fogatas.
--	No dejar herramientas que puedan generar chispas.
+
+- No tirar colillas de cigarro en el bosque.
+- No tirar basura en el bosque. (Vidrios, plásticos).
+- No prender fogatas.
+- No dejar herramientas que puedan generar chispas.
 
 ## Videojuego: Brigadista.
 
@@ -42,20 +44,21 @@ Si ganas, salvas a todos los seres vivos del bosque, si pierdes se quemará todo
 Se te dará información de objetos encontrados, puntos obtenidos y el tiempo que tienes para obtener todos los objetos.
 
 ### Objetos a recoger:
--	Barril con fuego.
--	Fogata con fuego.
+
+- Barril con fuego.
+- Fogata con fuego.
 - Cigarros.
 - Botellas de plástico o vidrio.
--	Bolsas de basura.
--	Basura tirada en el césped como Vidrios, plásticos y metales.
+- Bolsas de basura.
+- Basura tirada en el césped como Vidrios, plásticos y metales.
 
-### Dispositivos para jugar.
+### Dispositivos para jugar:
 
-Este juego esta creado en un entorno 3D para realidad virtual, para esto es necesario lo siguiente:
--	Un celular con Android.
--	Un control con bluetooth.
--	Lentes de realidad virtual.
--	Audífonos.
+Este juego esta creado en un entorno 3D para realidad virtual.
+- Un celular con Android.
+- Un control con bluetooth.
+- Lentes de realidad virtual.
+- Audífonos.
 
 <p align="center">
      <img src="https://github.com/AlfredoCU/Videojuego-Brigadista/blob/master/Img/3.png" alt="Logo de la app">
@@ -78,5 +81,7 @@ https://www.eluniversal.com.mx/estados/extinguen-incendio-forestal-en-el-bosque-
 https://www.informador.mx/jalisco/En-un-mes-se-registran-ocho-incendios-en-el-Bosque-La-Primavera-20190410-0075.html
 
 ### Vídeo en Youtube.
+
 ### Proyecto Completo.
+
 ### Apk (Instalador para Android).
