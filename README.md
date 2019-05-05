@@ -76,3 +76,7 @@ https://www.eluniversal.com.mx/estados/extinguen-incendio-forestal-en-el-bosque-
 
 -	El Informador:
 https://www.informador.mx/jalisco/En-un-mes-se-registran-ocho-incendios-en-el-Bosque-La-Primavera-20190410-0075.html
+
+### Vídeo en Youtube.
+### Proyecto Completo.
+### Apk (Instalador para Android).
